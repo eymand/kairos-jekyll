@@ -1,0 +1,94 @@
+senior:
+  title: Senior Editor and Publisher
+  who:
+    - name: Douglas Eyman
+      affiliation: George Mason University
+      email: kairosrtp@gmail.com
+
+editor:
+  title: Editor
+  who:
+    - name: Cheryl E. Ball
+      affiliation: Wayne State University
+      email: kairosrtp@gmail.com
+
+managing:
+  title: Managing Editor
+  who:
+    - name: Michael J. Faris
+      affiliation: Texas Tech University
+
+technical:
+  title: Technical Editor
+  who:
+    - name: Karl Stolley
+      affiliation: Illinois Institute of Technology
+
+topoi:
+  title: Topoi Editor
+  who:
+    - name: Mike Edwards
+      affiliation: Washington State University
+    - name: Ashley Holmes
+      affiliation: Georgia State University
+
+disputatio:
+  title: Disputatio Editor
+  who:
+    - name: Moe Folk
+      affiliation: Kutztown University
+
+interviews:
+  title: Interviews Editor
+  who:
+    - name: Margaret M. Strain
+      affiliation: University of Dayton
+    - name: D. Alexis Hart
+      affiliation: Allegheny College
+
+inventio:
+  title: Inventio Editor
+  who:
+    - name: Madeleine Sorapure
+      affiliation: University of California, Santa Barbara
+
+praxis:
+  title: Praxis Editor
+  who:
+    - name: Elkie Burnside
+      affiliation: University of Findlay
+
+praxiswiki:
+  title: PraxisWiki Editor
+  who:
+    - name: Kristi McDuffie
+      affiliation: University of Illinois
+    - name: Matthew Vetter
+      affiliation: Indiana University of Pennsylvania
+
+kairoscast:
+  title: KairosCast Editor
+  who:
+    - name: Courtney Danforth
+      affiliation: College of Southern Nevada
+      email: thekairoscast@gmail.com
+    - name: Harley Ferris
+      affiliation: University of Findlay
+      email: thekairoscast@gmail.com
+
+reviews:
+  title: Reviews Editor
+  who:
+    - name: Christopher Andrews
+      affiliation: Texas A & M University Corpus Christi
+    - name: Elizabeth Fleitz
+      affiliation: Lindenwood University
+      email: EFleitz@lindenwood.edu
+
+communications:
+  title: Communications Editor
+  who:
+    - name: Howard Fooksman
+      affiliation: Michigan State University
+    - name: John Jones
+      affiliation: Ohio State University
