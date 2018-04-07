@@ -52,7 +52,7 @@ stages of review.
   <h3>Editorial Board Alumni</h3>
   <ul>
     {% for member in site.data.board.alumni %}
-    <li class="name>">{{ member }}</li>
+    <li class="name">{{ member }}</li>
     {% endfor %}
   </ul>
 </section>
