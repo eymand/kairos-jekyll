@@ -1,0 +1,125 @@
+issue:
+  volume: 22
+  number: 2
+  sections:
+    loggingon:
+      - feature: In This Issue
+        url: http://kairos.technorhetoric.net/22.2/loggingon/
+        authors:
+          - name: Cheryl E. Ball, Editor
+      - feature: "CFP: Data Visualization in Writing Studies"
+        url: http://kairos.technorhetoric.net/22.2/loggingon/CFP_dataviz_kairos.pdf
+    disputatio:
+      - webtext: Multimodal Composing, Sketchnotes, and Idea Generation
+        url: http://kairos.technorhetoric.net/22.2/disputatio/andrews/
+        image: http://kairos.technorhetoric.net/22.2/media/andrews.png
+        abstract: >
+          Using the mixed media of sketch notes, animation, and voiceover, this video explores the
+          field of composition’s relationship between multimodality and composing. The piece
+          illustrates how multimodal strategies such as sketchnotes can enhance idea generation and
+          learning and provide classroom stategies for multimodal composition.
+        authors:
+          - name: Kendra Andrews
+          - name: T. Mark Bentley
+            role: illustrated by
+      - webtext: POOC Yourself
+        url: http://kairos.technorhetoric.net/22.2/disputatio/muhlhauser-schafer/
+        image: http://kairos.technorhetoric.net/22.2/media/muhlhauser-schafer.png
+        abstract: >
+          POOC assignments enable students to step in and out of different important economies that
+          interact in a post-truthy world: the attention economy (engaging viewers with content),
+          information economy (finding info to create the university), reputation economy
+          (developing ethos), and trust economy (learning how to trust others by vetting).
+        authors:
+          - name: Paul Muhlhauser
+          - name: Daniel Schafer
+      - webtext:  Welcome to the Letters of Anna Calhoun Clemson
+        url: http://kairos.technorhetoric.net/22.2/disputatio/quigley/
+        image: http://kairos.technorhetoric.net/22.2/media/quigley.png
+        abstract: >
+          This project challenges the dominant narrative a state university utilizes to describe its
+          namesake. The project curates a selection of primary source documents set in juxtaposition
+          to myriad other texts, images, and videos, all working in conjunction to complicate the
+          scene of learning at this university and in this state.
+        authors:
+          - name: Stephen Quigley
+    topoi:
+      - webtext: "A Multisensory Literacy Approach to Biomedical Healthcare Technologies: Aural, Tactile, and Visual Layered Health Literacies"
+        url: http://kairos.technorhetoric.net/22.2/topoi/bivens-et-al/
+        image: http://kairos.technorhetoric.net/22.2/media/bivens-et-al.png
+        abstract: >
+          Health literacy is an embodied, multisensory experience that is invariably mediated by
+          healthcare technologies. We illustrate this concept through three case studies that
+          describe scenarios in which non-experts and lay experts engage in non-discursive literacy
+          practices: parents caring for an infant in a neonatal intensive care unit (NICU), people
+          with type 1 diabetes (T1D) self-managing their treatment, and public audiences reporting
+          symptoms to a crowd-sourced flu-tracking program.
+        authors:
+          - name: Kristin Marie Bivens
+          - name: Lora Arduser
+          - name: Candice A. Welhausen
+          - name: Michael J. Faris
+      - webtext: A Distant View of <i>English Journal</i>, 1912-2012
+        url:
+        image:
+        abstract: >
+          Distant reading and related data-driven methodologies illuminate previously unrecognized
+          trends in how the discipline of English has incorporated, resisted, and naturalized new
+          media technologies.
+        authors:
+          - name: Jason Palmeri
+          - name: Ben McCorkle
+    praxis:
+      - webtext: "Navigating Shifting Social Media Networks: An Ecological Approach to Anonymous Mobile Applications"
+        url: http://kairos.technorhetoric.net/22.2/praxis/carlson/
+        image: http://kairos.technorhetoric.net/22.2/media/carlson.png
+        abstract: >
+          Using anonymous, location-based social media applications in the writing classroom can
+          heighten student awareness of other situational factors online, such as time, place, and
+          feeling. By engaging with student posts and their accompanying reflections, this text
+          argues for the use of anonymous social media applications in our pedagogy to help students
+          engage ethically in digital spaces.
+        authors:
+          - name: Erin Brock Carlson
+      - webtext: "S.E.E.D.: Creating and Implementing an Alternate Reality"
+        url: http://kairos.technorhetoric.net/22.2/praxis/ehrenberg-et-al/
+        image: http://kairos.technorhetoric.net/22.2/media/ehrenberg-et-al.png
+        abstract: >
+          This webtext explores the educational and social potential of Alternate Reality Games
+          (ARGs) by describing and analyzing the design, curriculum, and objectives of an ARG
+          entitled S.E.E.D. This webtext uses some of the transmedia assets that made the game
+          itself possible, as well as video documentation of the game, to provide an account of this
+          genre and its affordances.
+        authors:
+          - name: Philip Ehrenberg
+          - name: Patrick Jagoda
+          - name: Melissa Gilliam
+      - webtext: "Building Rhetoric One Bit at a Time: A Case of Maker Rhetoric with littleBits"
+        url: http://kairos.technorhetoric.net/22.2/praxis/faris-et-al/
+        image: http://kairos.technorhetoric.net/22.2/media/faris-et-al.png
+        abstract: >
+          In this webtext, we share our experiences in a new media graduate course in which students
+          played and experimented with littleBits (modular circuitry designed for easy invention).
+          Modular three-dimensional objects provide opportunities to introduce new media to students
+          in ways that disrupt their conventional practices of invention, provide opportunities to
+          explore rhetorical practice as play, and refigure creation as remix and craft.
+        authors:
+          - name: Michael J. Faris
+          - name: Andrew M. Blick
+          - name: Jack T. Labriola
+          - name: Leslie Hankey
+          - name: Jamie May
+          - name: Richard T. Mangum
+    praxiswiki:
+      - webtext: "The Markdown Movement: Writing's Influence on Markdown"
+        url: http://praxis.technorhetoric.net/tiki-index.php?page=PraxisWiki:_:markdown
+        authors:
+          - name: Aaron Beveridge
+      - webtext: Twitter Bots As Digital Writing Assignments
+        url: http://praxis.technorhetoric.net/tiki-index.php?page=PraxisWiki:_:twitterbots
+        authors:
+          - name: Rachael Graham Lussos
+      - webtext: "Twitter Archives: A Discussion of Systems, Methods, Visualizations, and Ethics"
+        url: http://praxis.technorhetoric.net/PraxisWiki:_:twitter%20archives
+        authors:
+          - name: William I. Wolff
