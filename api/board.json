@@ -1,0 +1,6 @@
+---
+layout: basic
+permalink: /api/board.json
+---
+
+{{ site.data.board | jsonify }}
