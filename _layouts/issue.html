@@ -1,0 +1,16 @@
+{% include header.html %}
+
+<main class="issue" id="issue-{{ page.issue_id }}">
+  <section id="content">
+    <header>
+      <!-- If this goes data-driven, I'll need to reference site.data -->
+      <h2>
+        Issue {{ page.issue_number }}
+        <small>{{ page.issue_date }}</small>
+      </h2>
+    <header>
+    {{ content}}
+  </section>
+</main>
+
+{% include footer.html %}
