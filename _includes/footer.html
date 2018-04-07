@@ -1,4 +1,20 @@
   <footer id="footer">
+    <section id="masthead">
+      <h2><i>Kairos</i> Staff</h2>
+      <ul>
+      {% for editor in site.data.staff.editors %}
+        {% assign plural = editor[1].who | size %}
+        <li>
+          <h3>{{ editor[1].title }}{% if plural > 1 %}s{% endif %}</h3>
+          <ul>
+            {% for p in editor[1].who %}
+              <li class="name">{{ p.name }}</li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+      </ul>
+    </section>
     <small>Journal design and implementation © 1996–{{ site.time | date: "%Y" }} Kairos.</small>
   </footer>
 </body>
