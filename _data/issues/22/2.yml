@@ -1,6 +1,9 @@
 issue:
   volume: 22
   number: 2
+  year: 2018
+  season: Spring
+  theme: Open Issue
   sections:
     loggingon:
       - feature: In This Issue
