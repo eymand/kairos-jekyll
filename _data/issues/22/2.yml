@@ -15,7 +15,8 @@ issue:
     disputatio:
       - title: Multimodal Composing, Sketchnotes, and Idea Generation
         url: http://kairos.technorhetoric.net/22.2/disputatio/andrews/
-        image: http://kairos.technorhetoric.net/22.2/media/andrews.png
+        thumb: http://kairos.technorhetoric.net/22.2/media/andrews.png
+        image: andrews
         abstract: >
           Using the mixed media of sketch notes, animation, and voiceover, this video explores the
           field of composition’s relationship between multimodality and composing. The piece
@@ -27,7 +28,8 @@ issue:
             role: illustrated by
       - title: POOC Yourself
         url: http://kairos.technorhetoric.net/22.2/disputatio/muhlhauser-schafer/
-        image: http://kairos.technorhetoric.net/22.2/media/muhlhauser-schafer.png
+        thumb: http://kairos.technorhetoric.net/22.2/media/muhlhauser-schafer.png
+        image: muhlhauser-schafer
         abstract: >
           POOC assignments enable students to step in and out of different important economies that
           interact in a post-truthy world: the attention economy (engaging viewers with content),
@@ -38,7 +40,8 @@ issue:
           - name: Daniel Schafer
       - title:  Welcome to the Letters of Anna Calhoun Clemson
         url: http://kairos.technorhetoric.net/22.2/disputatio/quigley/
-        image: http://kairos.technorhetoric.net/22.2/media/quigley.png
+        thumb: http://kairos.technorhetoric.net/22.2/media/quigley.png
+        image: quigley
         abstract: >
           This project challenges the dominant narrative a state university utilizes to describe its
           namesake. The project curates a selection of primary source documents set in juxtaposition
@@ -49,7 +52,8 @@ issue:
     topoi:
       - title: "A Multisensory Literacy Approach to Biomedical Healthcare Technologies: Aural, Tactile, and Visual Layered Health Literacies"
         url: http://kairos.technorhetoric.net/22.2/topoi/bivens-et-al/
-        image: http://kairos.technorhetoric.net/22.2/media/bivens-et-al.png
+        thumb: http://kairos.technorhetoric.net/22.2/media/bivens-et-al.png
+        image: bivens-et-al
         abstract: >
           Health literacy is an embodied, multisensory experience that is invariably mediated by
           healthcare technologies. We illustrate this concept through three case studies that
@@ -64,6 +68,7 @@ issue:
           - name: Michael J. Faris
       - title: A Distant View of <i>English Journal</i>, 1912-2012
         url:
+        thumb:
         image:
         abstract: >
           Distant reading and related data-driven methodologies illuminate previously unrecognized
@@ -75,7 +80,8 @@ issue:
     praxis:
       - title: "Navigating Shifting Social Media Networks: An Ecological Approach to Anonymous Mobile Applications"
         url: http://kairos.technorhetoric.net/22.2/praxis/carlson/
-        image: http://kairos.technorhetoric.net/22.2/media/carlson.png
+        thumb: http://kairos.technorhetoric.net/22.2/media/carlson.png
+        image: carlson
         abstract: >
           Using anonymous, location-based social media applications in the writing classroom can
           heighten student awareness of other situational factors online, such as time, place, and
@@ -86,7 +92,8 @@ issue:
           - name: Erin Brock Carlson
       - title: "S.E.E.D.: Creating and Implementing an Alternate Reality"
         url: http://kairos.technorhetoric.net/22.2/praxis/ehrenberg-et-al/
-        image: http://kairos.technorhetoric.net/22.2/media/ehrenberg-et-al.png
+        thumb: http://kairos.technorhetoric.net/22.2/media/ehrenberg-et-al.png
+        image: ehrenberg-et-al
         abstract: >
           This webtext explores the educational and social potential of Alternate Reality Games
           (ARGs) by describing and analyzing the design, curriculum, and objectives of an ARG
@@ -99,7 +106,8 @@ issue:
           - name: Melissa Gilliam
       - title: "Building Rhetoric One Bit at a Time: A Case of Maker Rhetoric with littleBits"
         url: http://kairos.technorhetoric.net/22.2/praxis/faris-et-al/
-        image: http://kairos.technorhetoric.net/22.2/media/faris-et-al.png
+        thumb: http://kairos.technorhetoric.net/22.2/media/faris-et-al.png
+        image: faris-et-al
         abstract: >
           In this webtext, we share our experiences in a new media graduate course in which students
           played and experimented with littleBits (modular circuitry designed for easy invention).
