@@ -9,3 +9,8 @@ defaults:
       path: "archive"
     values:
       layout: "issue"
+  -
+    scope:
+      path: "api"
+    values:
+      layout: "basic"
