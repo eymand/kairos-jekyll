@@ -126,3 +126,28 @@ issue:
         url: http://praxis.technorhetoric.net/PraxisWiki:_:twitter%20archives
         authors:
           - name: William I. Wolff
+  features:
+    kairoscast:
+      - title: KairosCast Episode 9
+        url: http://kairos.technorhetoric.net/kairoscast/
+        authors:
+          - name: Courtney Danforth
+          - name: Harley Ferris
+    interviews:
+      - title: "Thinking Globally, Composing Locally: An Interview with Kirk St. Amant & Rich Rice"
+        url: http://kairos.technorhetoric.net/22.2/interviews/verhulsdonck/
+        authors:
+          - name: Gustav Verhulsdonck
+    reviews:
+      - title: CCCC 2017 Reviews
+        url: http://praxis.technorhetoric.net/tiki-index.php?page=PraxisWiki%3A_%3ACCCC_2017
+        authors:
+          - name: Andrea Beaudin, Ed.
+      - title: A Review of <i>Composition in the Age of Austerity</i> edited by Nancy Welch and Tony Scott
+        url: http://kairos.technorhetoric.net/22.2/reviews/grant/
+        authors:
+          - name: David Grant
+      - title: "A Review of <i>Political Literacy in Composition and Rhetoric: Defending Academic Discourse against Postmodern Pluralism</i> by Donald Lazere"
+        url: http://kairos.technorhetoric.net/22.2/reviews/hope/
+        authors:
+          - name: Lacy Hope
