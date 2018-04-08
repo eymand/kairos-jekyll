@@ -1,0 +1,5 @@
+---
+permalink: /api/editors.json
+---
+
+{{ site.data.staff | jsonify }}
