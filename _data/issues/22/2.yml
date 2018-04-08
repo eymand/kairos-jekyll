@@ -4,14 +4,14 @@ issue:
   year: 2018
   season: Spring
   theme: Open Issue
+  loggingon:
+    - feature: In This Issue
+      url: http://kairos.technorhetoric.net/22.2/loggingon/
+      authors:
+        - name: Cheryl E. Ball, Editor
+    - feature: "CFP: Data Visualization in Writing Studies"
+      url: http://kairos.technorhetoric.net/22.2/loggingon/CFP_dataviz_kairos.pdf
   sections:
-    loggingon:
-      - feature: In This Issue
-        url: http://kairos.technorhetoric.net/22.2/loggingon/
-        authors:
-          - name: Cheryl E. Ball, Editor
-      - feature: "CFP: Data Visualization in Writing Studies"
-        url: http://kairos.technorhetoric.net/22.2/loggingon/CFP_dataviz_kairos.pdf
     disputatio:
       - webtext: Multimodal Composing, Sketchnotes, and Idea Generation
         url: http://kairos.technorhetoric.net/22.2/disputatio/andrews/
