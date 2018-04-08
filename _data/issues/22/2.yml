@@ -5,15 +5,15 @@ issue:
   season: Spring
   theme: Open Issue
   loggingon:
-    - feature: In This Issue
+    - title: In This Issue
       url: http://kairos.technorhetoric.net/22.2/loggingon/
       authors:
         - name: Cheryl E. Ball, Editor
-    - feature: "CFP: Data Visualization in Writing Studies"
+    - title: "CFP: Data Visualization in Writing Studies"
       url: http://kairos.technorhetoric.net/22.2/loggingon/CFP_dataviz_kairos.pdf
   sections:
     disputatio:
-      - webtext: Multimodal Composing, Sketchnotes, and Idea Generation
+      - title: Multimodal Composing, Sketchnotes, and Idea Generation
         url: http://kairos.technorhetoric.net/22.2/disputatio/andrews/
         image: http://kairos.technorhetoric.net/22.2/media/andrews.png
         abstract: >
@@ -25,7 +25,7 @@ issue:
           - name: Kendra Andrews
           - name: T. Mark Bentley
             role: illustrated by
-      - webtext: POOC Yourself
+      - title: POOC Yourself
         url: http://kairos.technorhetoric.net/22.2/disputatio/muhlhauser-schafer/
         image: http://kairos.technorhetoric.net/22.2/media/muhlhauser-schafer.png
         abstract: >
@@ -36,7 +36,7 @@ issue:
         authors:
           - name: Paul Muhlhauser
           - name: Daniel Schafer
-      - webtext:  Welcome to the Letters of Anna Calhoun Clemson
+      - title:  Welcome to the Letters of Anna Calhoun Clemson
         url: http://kairos.technorhetoric.net/22.2/disputatio/quigley/
         image: http://kairos.technorhetoric.net/22.2/media/quigley.png
         abstract: >
@@ -47,7 +47,7 @@ issue:
         authors:
           - name: Stephen Quigley
     topoi:
-      - webtext: "A Multisensory Literacy Approach to Biomedical Healthcare Technologies: Aural, Tactile, and Visual Layered Health Literacies"
+      - title: "A Multisensory Literacy Approach to Biomedical Healthcare Technologies: Aural, Tactile, and Visual Layered Health Literacies"
         url: http://kairos.technorhetoric.net/22.2/topoi/bivens-et-al/
         image: http://kairos.technorhetoric.net/22.2/media/bivens-et-al.png
         abstract: >
@@ -62,7 +62,7 @@ issue:
           - name: Lora Arduser
           - name: Candice A. Welhausen
           - name: Michael J. Faris
-      - webtext: A Distant View of <i>English Journal</i>, 1912-2012
+      - title: A Distant View of <i>English Journal</i>, 1912-2012
         url:
         image:
         abstract: >
@@ -73,7 +73,7 @@ issue:
           - name: Jason Palmeri
           - name: Ben McCorkle
     praxis:
-      - webtext: "Navigating Shifting Social Media Networks: An Ecological Approach to Anonymous Mobile Applications"
+      - title: "Navigating Shifting Social Media Networks: An Ecological Approach to Anonymous Mobile Applications"
         url: http://kairos.technorhetoric.net/22.2/praxis/carlson/
         image: http://kairos.technorhetoric.net/22.2/media/carlson.png
         abstract: >
@@ -84,7 +84,7 @@ issue:
           engage ethically in digital spaces.
         authors:
           - name: Erin Brock Carlson
-      - webtext: "S.E.E.D.: Creating and Implementing an Alternate Reality"
+      - title: "S.E.E.D.: Creating and Implementing an Alternate Reality"
         url: http://kairos.technorhetoric.net/22.2/praxis/ehrenberg-et-al/
         image: http://kairos.technorhetoric.net/22.2/media/ehrenberg-et-al.png
         abstract: >
@@ -97,7 +97,7 @@ issue:
           - name: Philip Ehrenberg
           - name: Patrick Jagoda
           - name: Melissa Gilliam
-      - webtext: "Building Rhetoric One Bit at a Time: A Case of Maker Rhetoric with littleBits"
+      - title: "Building Rhetoric One Bit at a Time: A Case of Maker Rhetoric with littleBits"
         url: http://kairos.technorhetoric.net/22.2/praxis/faris-et-al/
         image: http://kairos.technorhetoric.net/22.2/media/faris-et-al.png
         abstract: >
@@ -114,15 +114,15 @@ issue:
           - name: Jamie May
           - name: Richard T. Mangum
     praxiswiki:
-      - webtext: "The Markdown Movement: Writing's Influence on Markdown"
+      - title: "The Markdown Movement: Writing's Influence on Markdown"
         url: http://praxis.technorhetoric.net/tiki-index.php?page=PraxisWiki:_:markdown
         authors:
           - name: Aaron Beveridge
-      - webtext: Twitter Bots As Digital Writing Assignments
+      - title: Twitter Bots As Digital Writing Assignments
         url: http://praxis.technorhetoric.net/tiki-index.php?page=PraxisWiki:_:twitterbots
         authors:
           - name: Rachael Graham Lussos
-      - webtext: "Twitter Archives: A Discussion of Systems, Methods, Visualizations, and Ethics"
+      - title: "Twitter Archives: A Discussion of Systems, Methods, Visualizations, and Ethics"
         url: http://praxis.technorhetoric.net/PraxisWiki:_:twitter%20archives
         authors:
           - name: William I. Wolff
